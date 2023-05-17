@@ -16,13 +16,13 @@ layout: landing
 <a href="https://aapv.es/">
 	<figure class="w-40 mx-8 my-8">
 	  <img class="w-40 rounded-lg" src="assets/images/logos/aapv.jpeg" alt="image description">
-	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">AAPV</figcaption>
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Actors i actrius professionals valencians</figcaption>
 	</figure>
 </a>
 
 <figure class="w-40 mx-8 my-8">
   <img class="w-40 rounded-lg" src="assets/images/logos/ada.png" alt="image description">
-  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Dobraxe Aso</figcaption>
+  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Dobraxe asociados</figcaption>
 </figure>
 
 <a href="https://adoma.es/">
