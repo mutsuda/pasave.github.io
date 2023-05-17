@@ -54,7 +54,7 @@ layout: landing
 <a href="https://www.cadib.es/quienes-somos/">
 	<figure class="w-40 mx-8 my-8">
 	  <img class="w-40 rounded-lg" src="assets/images/logos/cadib.png" alt="image description">
-	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Comunidad de Artistas del Doblaje de las Illes Balears</figcaption>
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Comunidad de Artistas del Doblaje de les Illes Balears</figcaption>
 	</figure>
 </a>
 
