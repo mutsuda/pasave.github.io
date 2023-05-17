@@ -14,20 +14,20 @@ layout: landing
 
 
 <a href="https://aapv.es/">
-	<figure class="w-40 mx-8 my-8">
-	  <img class="w-40 rounded-lg" src="assets/images/logos/aapv.jpeg" alt="image description">
+	<figure class="w-56 mx-8 my-8">
+	  <img class="w-56 rounded-lg" src="assets/images/logos/aapv.jpeg" alt="image description">
 	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Actors i actrius professionals valencians</figcaption>
 	</figure>
 </a>
 
-<figure class="w-40 mx-8 my-8">
-  <img class="w-40 rounded-lg" src="assets/images/logos/ada.png" alt="image description">
+<figure class="w-32 mx-8 my-8">
+  <img class="w-32 rounded-lg" src="assets/images/logos/ada.png" alt="image description">
   <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Dobraxe asociados</figcaption>
 </figure>
 
 <a href="https://adoma.es/">
-	<figure class="w-40 mx-8 my-8">
-	  <img class="w-40 rounded-lg" src="assets/images/logos/adoma.jpeg" alt="image description">
+	<figure class="w-56 mx-8 my-8">
+	  <img class="w-56 rounded-lg" src="assets/images/logos/adoma.jpeg" alt="image description">
 	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Doblaje de Madrid</figcaption>
 	</figure>
 </a>
@@ -52,15 +52,15 @@ layout: landing
 </a>
 
 <a href="https://www.cadib.es/quienes-somos/">
-	<figure class="w-40 mx-8 my-8">
-	  <img class="w-40 rounded-lg" src="assets/images/logos/cadib.png" alt="image description">
+	<figure class="w-32 mx-8 my-8">
+	  <img class="w-32 rounded-lg" src="assets/images/logos/cadib.png" alt="image description">
 	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Comunidad de Artistas del Doblaje de les Illes Balears</figcaption>
 	</figure>
 </a>
 
 <a href="https://cpd.org.es/">
-	<figure class="w-40 mx-8 my-8">
-	  <img class="w-40 rounded-lg" src="assets/images/logos/cpd.png" alt="image description">
+	<figure class="w-60 mx-8 my-8">
+	  <img class="w-60 rounded-lg" src="assets/images/logos/cpd.png" alt="image description">
 	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Col·lectiu de professionals del doblatge</figcaption>
 	</figure>
 </a>
