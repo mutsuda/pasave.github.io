@@ -5,6 +5,92 @@
 layout: landing
 ---
 <div class="pt-20 text-center">
-	<div class="text-sky-600 text-5xl font-bold">PASAVE</div>
-	<div>Plataforma de Asociaciones y Sindicatos de Artistas de Voz de España</div>
+	<div class="text-sky-600 text-9xl font-bold">PASAVE</div>
+	<div class="text-black">Plataforma de Asociaciones y Sindicatos de Artistas de Voz de España</div>
+</div>
+
+
+<div class="flex flex-wrap justify-center pt-12 items-baseline">
+
+
+<a href="https://aapv.es/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/aapv.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">AAPV</figcaption>
+	</figure>
+</a>
+
+<figure class="w-40 mx-8 my-8">
+  <img class="w-40 rounded-lg" src="assets/images/logos/ada.png" alt="image description">
+  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Dobraxe Aso</figcaption>
+</figure>
+
+<a href="https://adoma.es/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/adoma.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Artistas de Doblaje de Madrid</figcaption>
+	</figure>
+</a>
+
+<figure class="w-40 mx-8 my-8">
+  <img class="w-40 rounded-lg" src="assets/images/logos/arda.jpeg" alt="image description">
+  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Asociación Renovada de Doblaje Andaluz</figcaption>
+</figure>
+
+<a href="https://www.avtamadrid.es/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/avta.png" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Sindicato de Actores de Voz y Voice Talents de Madrid</figcaption>
+	</figure>
+</a>
+
+<a href="https://www.bieuse.eus/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/bieuse.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Bikoiztaile Euskaldunen Elkartea</figcaption>
+	</figure>
+</a>
+
+<a href="https://www.cadib.es/quienes-somos/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/cadib.png" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Comunidad de Artistas del Doblaje de las Illes Balears</figcaption>
+	</figure>
+</a>
+
+<a href="https://cpd.org.es/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/cpd.png" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Col·lectiu de professionals del doblatge</figcaption>
+	</figure>
+</a>
+
+<a href="https://dubbcn.org">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/dub.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Doblatge Unida de Barcelona</figcaption>
+	</figure>
+</a>
+
+
+<figure class="w-40 mx-8 my-8">
+  <img class="w-40 rounded-lg" src="assets/images/logos/ehbe.jpeg" alt="image description">
+  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Euskal Herriko bikoizleen elkartea</figcaption>
+</figure>
+
+<a href="https://lageneraldelocutores.es/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/lgl.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">La General de Locutores</figcaption>
+	</figure>
+</a>
+
+<a href="http://locumad.com/">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/locumad.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Locumad</figcaption>
+	</figure>
+</a>
+
+
 </div>
