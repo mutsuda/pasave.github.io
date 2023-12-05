@@ -5,7 +5,7 @@
 layout: landing
 ---
 <div class="pt-20 text-center">
-	<div class="text-sky-600 text-9xl font-bold">PASAVE</div>
+	<a href="/contacta/"><div class="text-sky-600 text-7xl font-bold">PASAVE</div></a>
 	<div class="text-black">Plataforma de Asociaciones y Sindicatos de Artistas de Voz de España</div>
 </div>
 
@@ -94,3 +94,12 @@ layout: landing
 
 
 </div>
+
+
+<div class="pt-10 flex justify-center items-center">
+    <a href="/contacta" class="text-black hover:text-blue-600 underline hover:no-underline">
+        <div>Contacta con nosotros</div>
+    </a>
+</div>
+
+
