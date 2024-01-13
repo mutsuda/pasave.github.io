@@ -4,7 +4,7 @@ permalink: /oklist/
 ---
 
 
-<div class="text-xl pb-4">Distribuidoras y estudios que ya han incluido nuestra Cláusula IA</div>
+<div class="text-xl pb-4">Distribuidoras y estudios que ya han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a></div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">Cosmopolitan</li>
 	<li class="font-bold">Movistar+</li>

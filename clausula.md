@@ -1,0 +1,7 @@
+---
+layout: landing
+permalink: clausula
+---
+<div class="px-4 py-4">No se permite ni cede el uso de la voz, modulación, timbre, gestos y análogos del locutor/de la locutora y/o del actor/de la actriz de doblaje o de voz, para ser utilizados para alimentar, entrenar, simular o acciones similares, en programas o proyectos de inteligencia artificial (IA), robótica, juegos informáticos o cualquier metodología que utilice o transforme la voz e interpretación grabada originalmente por el locutor/la locutora y/o el actor/la actriz, para destinarse a otro fin distinto al detallado en este contrato, que es dar voz e interpretar a un/os personaje/s de una producción en concreto.</div>
+
+<div class="px-4 py-4">The use of voice, modulation, timbre, gestures and analogues of the voice talent and/or voice actor/actress is not permitted or transferred to be used for feeding, training, simulating or any similar action related to such, in artificial intelligence (AI) programs or projects, robotics, computer games or any other methodology that uses or transforms the voice originally recorded by the voice talent and/or actor/actress, to be used for any purpose other than the one detailed in the hereby agreement, which is to give voice and interpret the character/s of a specific production.</div>
