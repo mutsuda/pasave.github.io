@@ -17,6 +17,7 @@ permalink: /oklist/
 	<li class="font-bold">RTVE (Radio Televisión Española)</li>
 	<li class="font-bold">TV3 (Televisió de Catalunya)</li>
 	<li class="font-bold">Takemaker Media SL</li>
+	<li class="font-bold">DeAPlaneta</li>
 </ul>
 
 
