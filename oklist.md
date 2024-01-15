@@ -24,4 +24,5 @@ permalink: /oklist/
 <div class="text-xl pb-4 pt-8">Distribuidoras con compromiso adquirido</div>
 <ul class="list-disc list-inside">
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
+<li class="font-bold">Tripictures</li>
 </ul>
