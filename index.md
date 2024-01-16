@@ -32,6 +32,13 @@ layout: landing
 	</figure>
 </a>
 
+<a href="">
+	<figure class="w-40 mx-8 my-8">
+	  <img class="w-40 rounded-lg" src="assets/images/logos/apdan.jpeg" alt="image description">
+	  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Asociación de Profesionales del Doblaje en Andalucía</figcaption>
+	</figure>
+</a>
+
 <figure class="w-40 mx-8 my-8">
   <img class="w-40 rounded-lg" src="assets/images/logos/arda.jpeg" alt="image description">
   <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Asociación Renovada de Doblaje Andaluz</figcaption>
