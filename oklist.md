@@ -27,4 +27,5 @@ permalink: /oklist/
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">Tripictures</li>
 	<li class="font-bold">Disney</li>
+	<li class="font-bold">AMC Networks</li> 
 </ul>
