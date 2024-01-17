@@ -22,7 +22,7 @@ permalink: /oklist/
 	<li class="font-bold">Tripictures</li>
 	<li class="font-bold">The Walt Disney Company</li>
 	<li class="font-bold">AMC Networks</li>
-	<li><span class="font-bold">Warner Bros. Discovery</span> (HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
+	<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 </ul>
 
 
