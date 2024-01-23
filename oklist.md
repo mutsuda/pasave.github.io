@@ -13,6 +13,7 @@ permalink: /oklist/
 	<li class="font-bold">TV3 (Televisió de Catalunya)</li>
 	<li class="font-bold">DeAPlaneta</li>
 	<li class="font-bold">Newen</li>
+	<li class="font-bold">The Pokémon Company International</li>
 </ul>
 
 
