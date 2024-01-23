@@ -4,6 +4,8 @@ permalink: /oklist/
 ---
 
 
+<div class="bg-red-500 px-4 py-4 mb-8 text-white text-center font-bold rounded-lg">El contenido de esta página está dirigido a los afiliados de las asociaciones y sindicatos que integran PASAVE</div>
+
 <div class="text-xl pb-4">Distribuidoras que ya han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a></div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">Cosmopolitan</li>
