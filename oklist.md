@@ -30,6 +30,7 @@ permalink: /oklist/
 	<li class="font-bold">Netflix</li>
 	<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
 	<li class="font-bold">Lionsgate</li>
+	<li class="font-bold">Fremantle</li>
 
 </ul>
 
