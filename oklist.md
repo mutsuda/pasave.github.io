@@ -26,7 +26,7 @@ permalink: /oklist/
 	<li class="font-bold">Tripictures</li>
 	<li class="font-bold">The Walt Disney Company</li>
 	<li class="font-bold">AMC Networks</li>
-	<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
+	<li><span class="font-bold">Warner Bros. Discovery</span> <a href="/assets/files/comunicados/wb.pdf">[leer comunicado]</a> (Warner Bros., HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 	<li class="font-bold">Netflix</li>
 	<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
 	<li class="font-bold">Lionsgate</li>
