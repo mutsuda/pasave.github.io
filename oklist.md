@@ -16,6 +16,7 @@ permalink: /oklist/
 	<li class="font-bold">DeAPlaneta</li>
 	<li class="font-bold">Newen</li>
 	<li class="font-bold">The Pokémon Company International</li>
+	<li class="font-bold">Penguin Random House LLC.</li>
 </ul>
 
 
