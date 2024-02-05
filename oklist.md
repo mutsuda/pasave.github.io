@@ -35,6 +35,7 @@ permalink: /oklist/
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
 	<li class="font-bold">Apple</li>
 	<li class="font-bold">BBC Studios</li>
+	<li class="font-bold">Amazon MGM Studios</li>
 </ul>
 
 
