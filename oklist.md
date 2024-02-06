@@ -16,7 +16,7 @@ permalink: /oklist/
 	<li class="font-bold">DeAPlaneta</li>
 	<li class="font-bold">Newen</li>
 	<li class="font-bold">The Pokémon Company International</li>
-
+</ul>
 
 
 <div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso a participar en la mesa de trabajo</div>
