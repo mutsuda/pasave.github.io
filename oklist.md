@@ -16,6 +16,7 @@ permalink: /oklist/
 	<li class="font-bold">DeAPlaneta</li>
 	<li class="font-bold">Newen</li>
 	<li class="font-bold">The Pokémon Company International</li>
+	<li class="font-bold">Banijay</li>
 </ul>
 
 
@@ -34,6 +35,9 @@ permalink: /oklist/
 	<li class="font-bold">Apple</li>
 	<li class="font-bold">BBC Studios</li>
 	<li class="font-bold">Amazon MGM Studios</li>
+	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
+	<li class="font-bold">Moonbug Entertainment</li>
+	<li class="font-bold">LEGO</li>
 </ul>
 
 
