@@ -6,7 +6,7 @@ permalink: /oklist/
 
 <div class="bg-red-500 px-4 py-4 mb-8 text-white text-center font-bold rounded-lg">El contenido de esta página está dirigido a los afiliados de las asociaciones y sindicatos que integran PASAVE</div>
 
-<div class="text-xl pb-4">Distribuidoras que ya han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a></div>
+<div class="text-xl pb-4">Distribuidoras que ya han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a> o una cláusula que incluye los tres elementos básicos de <a href="https://pasave.org/assets/files/exp_es.pdf">la exposición de PASAVE</a></div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">Cosmopolitan</li>
 	<li class="font-bold">Movistar+</li>
