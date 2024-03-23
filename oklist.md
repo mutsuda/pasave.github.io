@@ -32,7 +32,6 @@ permalink: /oklist/
 	<li class="font-bold">Lionsgate</li>
 	<li class="font-bold">Fremantle</li>
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
-	<li class="font-bold">Apple</li>
 	<li class="font-bold">BBC Studios</li>
 	<li class="font-bold">Amazon MGM Studios</li>
 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
