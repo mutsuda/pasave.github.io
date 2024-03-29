@@ -37,6 +37,7 @@ permalink: /oklist/
 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 	<li class="font-bold">Moonbug Entertainment</li>
 	<li class="font-bold">LEGO</li>
+	<li class="font-bold">Riot Games</li>
 </ul>
 
 
