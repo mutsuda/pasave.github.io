@@ -6,7 +6,9 @@ permalink: /oklist/
 
 <div class="bg-red-500 px-4 py-4 mb-8 text-white text-center font-bold rounded-lg">El contenido de esta página está dirigido a los afiliados de las asociaciones y sindicatos que integran PASAVE</div>
 
-<div class="text-xl pb-4">Distribuidoras que ya han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a> o una cláusula que incluye los tres elementos básicos de <a href="https://pasave.org/assets/files/exp_es.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">la exposición de PASAVE</a></div>
+<div class="bg-green-200 p-4">
+
+<div class="text-xl pb-4">Distribuidoras que han incluido la <a href="/clausula" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Cláusula IA de PASAVE</a></div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">Cosmopolitan</li>
 	<li class="font-bold">Movistar+</li>
@@ -20,8 +22,19 @@ permalink: /oklist/
 </ul>
 
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso a participar en la mesa de trabajo</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras que han participado en la mesa de trabajo y han incluido en sus cesiones una cláusula IA con la protección necesaria:</div>
 <ul class="list-disc list-inside">
+	<li class="font-bold">LEGO</li>
+	<li class="font-bold">ITV Studios Global Distribution Limited</li>
+</ul>
+
+
+<div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
+
+</div>
+
+<div class="text-gray-300 text-xl pb-4 pt-8">Distribuidoras que enviaron su compromiso a participar en la mesa de trabajo, cuyo plazo finalizó el 31/03/2024:</div>
+<ul class="text-gray-300 list-disc list-inside">
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">Tripictures</li>
 	<li class="font-bold">The Walt Disney Company</li>
@@ -41,4 +54,4 @@ permalink: /oklist/
 </ul>
 
 
-<div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
+
