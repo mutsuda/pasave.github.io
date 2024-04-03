@@ -34,6 +34,7 @@ permalink: /oklist/
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">AMC Networks</li>
 	<li class="font-bold">BBC Studios</li>
+	<li class="font-bold">Amazon MGM Studios</li>
 </ul>
 
 
