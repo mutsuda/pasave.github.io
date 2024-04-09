@@ -39,6 +39,7 @@ permalink: /oklist/
 	<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
  	<li class="font-bold">The Walt Disney Company</li>
  	<li class="font-bold">Netflix</li>
+ 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 </ul>
 
 
