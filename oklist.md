@@ -26,13 +26,13 @@ permalink: /oklist/
 <ul class="list-disc list-inside">
 	<li class="font-bold">LEGO</li>
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
+	<li class="font-bold">AMC Networks</li>
 </ul>
 
 
 <div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso para ampliar el plazo de la mesa de trabajo al día 12/05/2024:</div>
 <ul class="list-disc list-inside">
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
-	<li class="font-bold">AMC Networks</li>
 	<li class="font-bold">BBC Studios</li>
 	<li class="font-bold">Amazon MGM Studios</li>
 	<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
