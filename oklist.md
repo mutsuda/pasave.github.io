@@ -19,6 +19,7 @@ permalink: /oklist/
 	<li class="font-bold">Newen</li>
 	<li class="font-bold">The Pokémon Company International</li>
 	<li class="font-bold">Banijay</li>
+	<li class="font-bold">France TV</li>
 </ul>
 
 
