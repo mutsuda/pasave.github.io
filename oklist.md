@@ -23,13 +23,14 @@ permalink: /oklist/
 </ul>
 
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han participado en la mesa de trabajo y han incluido en sus cesiones <b>una cláusula IA con la protección necesaria</b>:</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras que han participado en la mesa de trabajo y han incluido en sus cesiones <b>una cláusula IA aceptada por PASAVE</b>:</div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">LEGO</li>
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
 	<li class="font-bold">AMC Networks</li>
 	<li class="font-bold">Fremantle</li>
 	<li class="font-bold">Lionsgate</li>
+	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 </ul>
 
 
