@@ -34,7 +34,7 @@ permalink: /oklist/
 </ul>
 
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso para ampliar el plazo de la mesa de trabajo al día 12/05/2024:</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso para ampliar el plazo de la mesa de trabajo al día 12/05/2024 y <b>aún no</b> han incluido en sus cesiones una cláusula IA aceptada por PASAVE:</div>
 <ul class="list-disc list-inside">
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">BBC Studios</li>
@@ -43,10 +43,7 @@ permalink: /oklist/
 	<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
  	<li class="font-bold">The Walt Disney Company</li>
  	<li class="font-bold">Netflix</li>
- 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 	<li class="font-bold">Apple</li>
-	<li class="font-bold">Fremantle</li>
-	<li class="font-bold">Lionsgate</li>
 </ul>
 
 
