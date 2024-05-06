@@ -28,6 +28,8 @@ permalink: /oklist/
 	<li class="font-bold">LEGO</li>
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
 	<li class="font-bold">AMC Networks</li>
+	<li class="font-bold">Fremantle</li>
+	<li class="font-bold">Lionsgate</li>
 </ul>
 
 
