@@ -33,9 +33,23 @@ permalink: /oklist/
 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 </ul>
 
+<div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han enviado su compromiso para ampliar el plazo de la mesa de trabajo al día 12/05/2024 y <b>aún no</b> han incluido en sus cesiones una cláusula IA aceptada por PASAVE:</div>
-<ul class="list-disc list-inside">
+
+</div>
+
+
+<div class="border-dotted border-4 border-green-300 bg-green-100 p-4">
+
+<div class="text-xl pb-4 pt-8">Se aceptó en asamblea seguir firmando las cesiones como hasta ahora si se incluye en ellas el siguiente texto. Puede ser añadido por el propio estudio en la cesión o a boli por el artista debajo de su firma, y tiene que estar incluido en la copia que se queda el estudio y en la que dan al trabajador, firmadas por ambas partes:</div>
+
+<p class="italic text-justify">"La presente cesión queda condicionada, en lo que se refiere a cualquier posible uso mediante Inteligencia Artificial del objeto de la cesión, a la posterior actualización de la misma conforme acuerdo expreso con PASAVE del cesionario/estudio/productor/distribuidor. Y en cualquier caso mediante el consentimiento expreso del cedente."
+</p>
+
+
+</div>
+<div class="text-gray-300 text-xl pb-4 pt-8">Distribuidoras que enviaron su compromiso para ampliar el plazo de la mesa de trabajo al día 12/05/2024 y <b>aún no</b> han incluido en sus cesiones una cláusula IA aceptada por PASAVE:</div>
+<ul class="text-gray-300 list-disc list-inside">
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">BBC Studios</li>
 	<li class="font-bold">Amazon MGM Studios</li>
@@ -46,10 +60,6 @@ permalink: /oklist/
 	<li class="font-bold">Apple</li>
 </ul>
 
-
-<div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
-
-</div>
 
 <div class="text-gray-300 text-xl pb-4 pt-8">Distribuidoras que enviaron su compromiso a participar en la mesa de trabajo, cuyo plazo finalizó el 31/03/2024:</div>
 <ul class="text-gray-300 list-disc list-inside">
