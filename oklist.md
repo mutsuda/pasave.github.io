@@ -46,7 +46,7 @@ permalink: /oklist/
 <p class="italic text-justify">"La presente cesión queda condicionada, en lo que se refiere a cualquier posible uso mediante Inteligencia Artificial del objeto de la cesión, a la posterior actualización de la misma conforme acuerdo expreso con PASAVE del cesionario/estudio/productor/distribuidor. Y en cualquier caso mediante el consentimiento expreso del cedente."
 </p>
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que aceptan que se añada este texto en sus cesiones:</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras han añadido este texto en sus cesiones:</div>
 	<ul class="list-disc list-inside">
 		<li><span class="font-bold">HBOMax</span></li>
 	</ul>
