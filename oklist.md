@@ -48,7 +48,7 @@ permalink: /oklist/
 
 <div class="text-xl pb-4 pt-8">Distribuidoras que han añadido este texto en sus cesiones:</div>
 	<ul class="list-disc list-inside">
-		<li><span class="font-bold">HBOMax</span></li>
+		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 	</ul>
 
 
