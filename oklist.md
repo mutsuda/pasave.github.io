@@ -48,7 +48,7 @@ permalink: /oklist/
 
 <div class="text-xl pb-4 pt-8">Distribuidoras que han añadido este texto en sus cesiones:</div>
 	<ul class="list-disc list-inside">
-		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
+		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBO, Max, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 	</ul>
 
 
@@ -59,7 +59,7 @@ permalink: /oklist/
 	<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 	<li class="font-bold">BBC Studios</li>
 	<li class="font-bold">Amazon MGM Studios</li>
-	<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBO, Max, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner, Warner Bros. Games)</li>
+	<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBOmax, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 	<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
  	<li class="font-bold">The Walt Disney Company</li>
  	<li class="font-bold">Netflix</li>
