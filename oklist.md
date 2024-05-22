@@ -43,7 +43,7 @@ permalink: /oklist/
 
 <div class="text-xl pb-4 pt-8">Se aceptó en asamblea seguir firmando las cesiones como hasta ahora si se incluye en ellas el siguiente texto. Puede ser añadido por el propio estudio en la cesión o a boli por el artista debajo de su firma, y tiene que estar incluido en la copia que se queda el estudio y en la que dan al trabajador, firmadas por ambas partes:</div>
 
-<p class="italic text-justify">"La presente cesión queda condicionada, en lo que se refiere a cualquier posible uso mediante Inteligencia Artificial del objeto de la cesión, a la posterior actualización de la misma conforme acuerdo expreso con PASAVE del cesionario/estudio/productor/distribuidor. Y en cualquier caso mediante el consentimiento expreso del cedente."
+<p class="px-20 text-small italic text-justify">"La presente cesión queda condicionada, en lo que se refiere a cualquier posible uso mediante Inteligencia Artificial del objeto de la cesión, a la posterior actualización de la misma conforme acuerdo expreso con PASAVE del cesionario/estudio/productor/distribuidor. Y en cualquier caso mediante el consentimiento expreso del cedente."
 </p>
 
 <div class="text-xl pb-4 pt-8">Distribuidoras que han añadido este texto en sus cesiones:</div>
@@ -51,6 +51,7 @@ permalink: /oklist/
 		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBO, Max, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 		<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
 	</ul>
+	<div class="pt-8 italic">Es posible que alguna cesión de derechos lleve incluido el texto anterior pese a que no aparezca el nombre de la distribuidora en esta lista. Si la cesión de derechos incluye <b>dicho texto de forma literal</b> se podría firmar según la decisión tomada en las asambleas del mes de mayo.</div>
 
 
 
