@@ -49,7 +49,7 @@ permalink: /oklist/
 <div class="text-xl pb-4 pt-8">Distribuidoras que han añadido este texto en sus cesiones:</div>
 	<ul class="list-disc list-inside">
 		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBO, Max, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
-		<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision)</li>
+		<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision, Viacom)</li>
 	</ul>
 	<div class="pt-8 italic">Es posible que alguna cesión de derechos lleve incluido el texto anterior pese a que no aparezca el nombre de la distribuidora en esta lista. Si la cesión de derechos incluye <b>dicho texto de forma literal</b> se podría firmar según la decisión tomada en las asambleas del mes de mayo.</div>
 
