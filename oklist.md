@@ -47,12 +47,14 @@ permalink: /oklist/
 <p class="px-20 text-small italic text-justify">"La presente cesión queda condicionada, en lo que se refiere a cualquier posible uso mediante Inteligencia Artificial del objeto de la cesión, a la posterior actualización de la misma conforme acuerdo expreso con PASAVE del cesionario/estudio/productor/distribuidor. Y en cualquier caso mediante el consentimiento expreso del cedente."
 </p>
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han añadido este texto en sus cesiones:</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras que han añadido un texto de cláusula condicionada en sus cesiones:</div>
 	<ul class="list-disc list-inside">
 		<li><span class="font-bold">Warner Bros. Discovery</span> (Warner Bros., Warner Bros. Games, HBO, Max, Cartoon Network, Adult Swim, New Line Cinema, Discovery Channel, Turner)</li>
 		<li><span class="font-bold">Paramount Global</span> (Paramount Pictures, CBS, Showtime, Nickelodeon, Pluto TV, MTV, Comedy Central, BET, Smithsonian, VH1, Channel5, Telefe, N10, Chilevision, Viacom)</li>
 		<li><span class="font-bold">Mattel</span></li>
+		<li><span class="font-bold">The Walt Disney Company *</span></li>
 	</ul>
+	<div class="pt-8 italic">* El redactado en el caso de Disney no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar este texto concreto.</div>
 	<div class="pt-8 italic">Es posible que alguna cesión de derechos lleve incluido el texto anterior pese a que no aparezca el nombre de la distribuidora en esta lista. Si la cesión de derechos incluye <b>dicho texto de forma literal</b> se podría firmar según la decisión tomada en las asambleas del mes de mayo.</div>
 
 
