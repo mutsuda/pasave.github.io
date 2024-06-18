@@ -56,8 +56,9 @@ permalink: /oklist/
 		<li><span class="font-bold">Mattel</span></li>
 		<li><span class="font-bold">The Walt Disney Company *</span></li>
 		<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
+		<li>Apple *</li>
 	</ul>
-	<div class="pt-8 italic">* El redactado en el caso de Disney no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar este texto concreto.</div>
+	<div class="pt-8 italic">* El redactado en el caso de Disney y Apple no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar estos textos concreto.</div>
 	<div class="pt-8 italic">Es posible que alguna cesión de derechos lleve incluido el texto anterior pese a que no aparezca el nombre de la distribuidora en esta lista. Si la cesión de derechos incluye <b>dicho texto de forma literal</b> se podría firmar según la decisión tomada en las asambleas del mes de mayo.</div>
 
 
