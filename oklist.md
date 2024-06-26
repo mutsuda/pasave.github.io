@@ -34,6 +34,7 @@ permalink: /oklist/
 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
 	<li class="font-bold">Sony Interactive Entertainment (videojuegos)</li>
 	<li class="font-bold">Netflix</li>
+	<li class="font-bold">Riot Games</li>
 </ul>
 
 <div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
