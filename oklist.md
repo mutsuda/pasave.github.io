@@ -61,7 +61,7 @@ permalink: /oklist/
 		<li><b>Amazon MGM Studios *</b></li>
 		<li><b>BBC Studios *</b></li>
 	</ul>
-	<div class="pt-8 italic">* El redactado en el caso de Disney, Apple y Amazon no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar estos textos concretos.</div>
+	<div class="pt-8 italic">* El redactado en el caso de Disney, Apple, Amazon y BBC Studios no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar estos textos concretos.</div>
 	<div class="pt-8 italic">Es posible que alguna cesión de derechos lleve incluido el texto anterior pese a que no aparezca el nombre de la distribuidora en esta lista. Si la cesión de derechos incluye <b>dicho texto de forma literal</b> se podría firmar según la decisión tomada en las asambleas del mes de mayo.</div>
 
 
