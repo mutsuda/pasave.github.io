@@ -24,7 +24,7 @@ permalink: /oklist/
 </ul>
 
 
-<div class="text-xl pb-4 pt-8">Distribuidoras que han participado en la mesa de trabajo y han incluido en sus cesiones <b>una cláusula IA aceptada por PASAVE</b>:</div>
+<div class="text-xl pb-4 pt-8">Distribuidoras que han incluido en sus cesiones <b>una cláusula IA aceptada por PASAVE</b>:</div>
 <ul class="list-disc list-inside">
 	<li class="font-bold">LEGO</li>
 	<li class="font-bold">ITV Studios Global Distribution Limited</li>
@@ -35,6 +35,8 @@ permalink: /oklist/
 	<li class="font-bold">Sony Interactive Entertainment (videojuegos)</li>
 	<li class="font-bold">Netflix</li>
 	<li class="font-bold">Riot Games</li>
+	<li class="font-bold">Epic Games</li>
+	<li class="font-bold">Ubisoft (en el estudio Deluxe)</li>
 </ul>
 
 <div class="pt-8 italic">Es posible que alguna cesión de derechos de un estudio en concreto <span class="font-medium">lleve incluida la Cláusula IA propuesta por PASAVE</span> pese a que no aparezca su nombre en esta lista. Si la cesión de derechos incluye la Cláusula IA se podría firmar según la decisión tomada en las asambleas del mes de noviembre.</div>
