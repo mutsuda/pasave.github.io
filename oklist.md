@@ -61,6 +61,7 @@ permalink: /oklist/
 		<li><span class="font-bold">NBCUniversal</span> (NBC, Universal, SYFY, Dreamworks, Focus Features, Peacock, Telemundo, Bravo)</li>
 		<li><b>Apple *</b></li>
 		<li><b>Amazon MGM Studios *</b></li>
+		<li><b>Audible *</b></li>
 		<li><b>BBC Studios *</b></li>
 	</ul>
 	<div class="pt-8 italic">* El redactado en el caso de Disney, Apple, Amazon y BBC Studios no es exactamente el mismo que aparece arriba. Consultad la comunicación de vuestro sindicato para comprobar estos textos concretos.</div>
