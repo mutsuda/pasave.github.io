@@ -32,7 +32,6 @@ permalink: /oklist/
 	<li class="font-bold">Fremantle</li>
 	<li class="font-bold">Lionsgate</li>
 	<li class="font-bold">Sony Pictures Entertainment (Sony Pictures Releasing, AXN, AXN Movies, Crunchyroll)</li>
-	<li class="font-bold">Sony Interactive Entertainment (videojuegos)</li>
 	<li class="font-bold">Netflix</li>
 	<li class="font-bold">Riot Games</li>
 	<li class="font-bold">Epic Games</li>
